@@ -1,0 +1,10 @@
+[
+  {"id":"DEMO-INV-001","customer":"Cliente Demo A","amount":1000,"dueDate":"2026-01-10","contactReference":"CONTACTO-DEMO-A"},
+  {"id":"DEMO-INV-002","customer":"Cliente Demo B","amount":2000,"dueDate":"2026-01-10","contactReference":"CONTACTO-DEMO-B","manualReview":true},
+  {"id":"DEMO-INV-003","customer":"Cliente Demo C","amount":3000,"dueDate":"2026-01-10","contactReference":"CONTACTO-DEMO-C","paid":true},
+  {"id":"DEMO-INV-004","customer":"Cliente Demo D","amount":4000,"dueDate":"2026-01-10","contactReference":null},
+  {"id":"DEMO-INV-005","customer":"Cliente Demo E","amount":5000,"dueDate":"2026-02-10","contactReference":"CONTACTO-DEMO-E"},
+  {"id":"DEMO-INV-006","customer":"Cliente Demo F","amount":6000,"dueDate":"2026-01-15","contactReference":"CONTACTO-DEMO-F"},
+  {"id":"DEMO-INV-007","customer":"Cliente Demo G","amount":7000,"dueDate":"2026-01-10","contactReference":"CONTACTO-DEMO-G"},
+  {"id":"DEMO-INV-007","customer":"Cliente Demo G","amount":7000,"dueDate":"2026-01-10","contactReference":"CONTACTO-DEMO-G"}
+]

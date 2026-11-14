@@ -1,0 +1,14 @@
+{
+  "name": "cobranzas-n8n-portfolio-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Demo de portfolio con datos ficticios y sin conexiones externas",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "demo": "node src/demo.mjs",
+    "test": "node --test tests/demo.test.mjs",
+    "build:workflow": "node tools/build-workflow.mjs",
+    "verify": "node tools/verify-publication.mjs"
+  }
+}

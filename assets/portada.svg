@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Automatización de cobranzas, demo pública">
+  <rect width="1200" height="300" rx="20" fill="#132b42"/>
+  <rect x="0" y="0" width="1200" height="7" fill="#7fe3e4"/>
+  <text x="55" y="65" fill="#7fe3e4" font-size="17" font-family="Arial, sans-serif" letter-spacing="3">PORTFOLIO · DAVID MIÑO</text>
+  <text x="55" y="126" fill="#ffffff" font-size="43" font-weight="700" font-family="Arial, sans-serif">Automatización de cobranzas</text>
+  <text x="55" y="171" fill="#e3edf3" font-size="24" font-family="Arial, sans-serif">Reglas de negocio, validación y revisión de excepciones</text>
+  <rect x="55" y="207" width="1090" height="49" rx="8" fill="#244458"/>
+  <text x="77" y="239" fill="#ffffff" font-size="20" font-family="Arial, sans-serif">n8n + JavaScript   ·   Datos ficticios   ·   Ejecución manual   ·   Sin envíos</text>
+</svg>
