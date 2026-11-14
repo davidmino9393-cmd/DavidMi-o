@@ -1,9 +1,460 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Automatización de cobranzas, demo pública">
-  <rect width="1200" height="300" rx="20" fill="#132b42"/>
-  <rect x="0" y="0" width="1200" height="7" fill="#7fe3e4"/>
-  <text x="55" y="65" fill="#7fe3e4" font-size="17" font-family="Arial, sans-serif" letter-spacing="3">PORTFOLIO · DAVID MIÑO</text>
-  <text x="55" y="126" fill="#ffffff" font-size="43" font-weight="700" font-family="Arial, sans-serif">Automatización de cobranzas</text>
-  <text x="55" y="171" fill="#e3edf3" font-size="24" font-family="Arial, sans-serif">Reglas de negocio, validación y revisión de excepciones</text>
-  <rect x="55" y="207" width="1090" height="49" rx="8" fill="#244458"/>
-  <text x="77" y="239" fill="#ffffff" font-size="20" font-family="Arial, sans-serif">n8n + JavaScript   ·   Datos ficticios   ·   Ejecución manual   ·   Sin envíos</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="3200" height="1092" viewBox="0 0 12568 4288" role="img" aria-label="Flujo del export guardado: 93 nodos y 124 conexiones"><defs><pattern id="fp-dots" width="45" height="45" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#313642"/></pattern><marker id="fp-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#858d9f"/></marker></defs><rect width="12568" height="4288" fill="#1b1e27"/><rect y="355" width="12568" height="3933" fill="url(#fp-dots)"/><rect width="12568" height="18" fill="#7fe3e4"/><text x="210" y="135" fill="#f5f7fa" font-family="Arial,sans-serif" font-size="100" font-weight="700">Automatización de cobranzas · n8n</text><text x="215" y="240" fill="#b7c5d2" font-family="Arial,sans-serif" font-size="60">93 nodos · 124 conexiones · vista del export guardado</text><text x="215" y="315" fill="#7fe3e4" font-family="Arial,sans-serif" font-size="44">Solo estructura y etiquetas funcionales · sin credenciales, parámetros ni datos operativos</text>
+<path d="M 6782 1154 C 6852 1154, 6832 562, 6902 562" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6782 1166 C 6852 1166, 6832 1186, 6902 1186" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6782 1178 C 6852 1178, 6832 1378, 6902 1378" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7006 562 C 7076 562, 7056 562, 7126 562" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7230 562 C 7300 562, 7280 562, 7350 562" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7454 562 C 7524 562, 7504 802, 7574 802" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7454 574 C 7814 574, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8574 898 C 8644 898, 8624 706, 8694 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7006 1186 C 7076 1186, 7056 1186, 7126 1186" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7230 1186 C 7300 1186, 7280 1186, 7350 1186" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7454 1186 C 7524 1186, 7504 802, 7574 802" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7454 1198 C 7814 1198, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8574 514 C 8644 514, 8624 706, 8694 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7006 1378 C 7076 1378, 7056 1378, 7126 1378" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7230 1378 C 7300 1378, 7280 1378, 7350 1378" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7454 1378 C 7524 1378, 7504 802, 7574 802" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7454 1390 C 7814 1390, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8574 706 C 8644 706, 8624 706, 8694 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2750 3954 C 3110 3954, 494 2418, 854 2418" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2974 3746 C 3334 3746, 10798 1938, 11158 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 10590 706 C 10660 706, 10640 706, 10710 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 10814 706 C 10884 706, 10864 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 5438 1842 C 5508 1842, 5488 1314, 5558 1314" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 5438 1854 C 5798 1854, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 734 3378 C 804 3378, 784 2418, 854 2418" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 958 2418 C 1307.44 2418, -119.44 614, 230 614" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 1182 2418 C 1252 2418, 1232 2418, 1302 2418" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 1406 2418 C 1476 2418, 1456 2418, 1526 2418" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 1630 2418 C 1700 2418, 1680 2354, 1750 2354" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 1630 2430 C 1990 2430, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 1854 2354 C 1924 2354, 1904 2354, 1974 2354" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2078 2354 C 2148 2354, 2128 2354, 2198 2354" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2526 2354 C 2596 2354, 2576 2242, 2646 2242" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2526 2366 C 2886 2366, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2750 2242 C 2820 2242, 2800 2242, 2870 2242" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2974 2242 C 3044 2242, 3024 2178, 3094 2178" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3198 2178 C 3268 2178, 3248 1762, 3318 1762" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3198 2190 C 3558 2190, 5198 1314, 5558 1314" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3198 2202 C 3558 2202, 7214 802, 7574 802" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3198 2202 C 3558 2202, 7214 802, 7574 802" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3198 2202 C 3558 2202, 7214 802, 7574 802" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3198 2202 C 3558 2202, 8334 2866, 8694 2866" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8798 2866 C 8868 2866, 8848 706, 8918 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3422 1762 C 3492 1762, 3472 1730, 3542 1730" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3646 1730 C 4006 1730, 4078 1842, 4438 1842" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3646 1742 C 3716 1742, 3696 2210, 3766 2210" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3646 1754 C 4006 1754, 5198 1314, 5558 1314" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3646 1754 C 4006 1754, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 4766 1842 C 4836 1842, 4816 1842, 4886 1842" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 4990 1842 C 5060 1842, 5040 1842, 5110 1842" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 5214 1842 C 5284 1842, 5264 1842, 5334 1842" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 5662 1314 C 5732 1314, 5712 1314, 5782 1314" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 5886 1314 C 5956 1314, 5936 1314, 6006 1314" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6110 1314 C 6180 1314, 6160 1170, 6230 1170" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6110 1326 C 6470 1326, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6334 1170 C 6404 1170, 6384 1170, 6454 1170" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6558 1170 C 6628 1170, 6608 1154, 6678 1154" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8798 706 C 8868 706, 8848 706, 8918 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9022 706 C 9092 706, 9072 706, 9142 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9246 706 C 9316 706, 9296 706, 9366 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9470 706 C 9540 706, 9520 706, 9590 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9694 706 C 9764 706, 9744 898, 9814 898" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9694 718 C 10054 718, 10126 706, 10486 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9918 898 C 9988 898, 9968 898, 10038 898" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 10142 898 C 10212 898, 10192 898, 10262 898" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 10366 898 C 10436 898, 10416 706, 10486 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2974 3554 C 3044 3554, 3024 2178, 3094 2178" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 11038 1938 C 11108 1938, 11088 1938, 11158 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 12158 1938 C 12228 1938, 12208 1938, 12278 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2974 3938 C 3334 3938, 8334 2610, 8694 2610" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7678 2514 C 7748 2514, 7728 2530, 7798 2530" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7678 2526 C 8038 2526, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9470 2530 C 9540 2530, 9520 2674, 9590 2674" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9470 2542 C 9830 2542, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 5886 4082 C 5956 4082, 5936 4082, 6006 4082" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6110 4082 C 6180 4082, 6160 4082, 6230 4082" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6334 4082 C 6404 4082, 6384 4082, 6454 4082" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6558 4082 C 6628 4082, 6608 2514, 6678 2514" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6782 2514 C 6852 2514, 6832 2514, 6902 2514" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7006 2514 C 7171.12 2514, 7184.88 2514, 7350 2514" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7006 2526 C 7076 2526, 7056 2274, 7126 2274" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7230 2274 C 7300 2274, 7280 2514, 7350 2514" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7454 2514 C 7524 2514, 7504 2514, 7574 2514" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7902 2530 C 7972 2530, 7952 2530, 8022 2530" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8126 2530 C 8196 2530, 8176 2530, 8246 2530" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8350 2530 C 8420 2530, 8400 2610, 8470 2610" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8350 2542 C 8710 2542, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8574 2610 C 8644 2610, 8624 2610, 8694 2610" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8798 2610 C 8868 2610, 8848 2530, 8918 2530" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8798 2622 C 9158 2622, 9230 2674, 9590 2674" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9022 2530 C 9092 2530, 9072 2530, 9142 2530" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9246 2530 C 9316 2530, 9296 2530, 9366 2530" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9694 2674 C 9764 2674, 9744 2674, 9814 2674" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 9918 2674 C 9988 2674, 9968 2674, 10038 2674" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 10142 2674 C 10212 2674, 10192 2674, 10262 2674" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 11038 3170 C 11108 3170, 11088 3170, 11158 3170" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7678 802 C 7748 802, 7728 802, 7798 802" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 7902 802 C 7972 802, 7952 802, 8022 802" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8126 802 C 8196 802, 8176 770, 8246 770" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8350 770 C 8420 770, 8400 898, 8470 898" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8350 782 C 8420 782, 8400 514, 8470 514" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8350 794 C 8420 794, 8400 706, 8470 706" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 8350 794 C 8710 794, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 10366 2674 C 10436 2674, 10416 2674, 10486 2674" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 10590 2674 C 10660 2674, 10640 2674, 10710 2674" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 10814 2674 C 10884 2674, 10864 3170, 10934 3170" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 10814 2686 C 10884 2686, 10864 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 4542 1842 C 4612 1842, 4592 1842, 4662 1842" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 3870 2210 C 3940 2210, 3920 2210, 3990 2210" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 4094 2210 C 4164 2210, 4144 2178, 4214 2178" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 4318 2178 C 4678 2178, 5198 1314, 5558 1314" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 4318 2190 C 4388 2190, 4368 1842, 4438 1842" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 4318 2202 C 4678 2202, 6094 2514, 6454 2514" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 4318 2202 C 4678 2202, 10574 1938, 10934 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 6558 2514 C 6628 2514, 6608 2514, 6678 2514" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 2302 2354 C 2372 2354, 2352 2354, 2422 2354" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 11262 1938 C 11332 1938, 11312 1938, 11382 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 11486 1938 C 11556 1938, 11536 1938, 11606 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 11710 1938 C 11780 1938, 11760 1938, 11830 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 11934 1938 C 12004 1938, 11984 1938, 12054 1938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 334 614 C 691.12 614, 720.88 2418, 1078 2418" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 334 614 C 694 614, 2510 3554, 2870 3554" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 334 614 C 694 614, 2510 3746, 2870 3746" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<path d="M 334 614 C 694 614, 2510 3938, 2870 3938" fill="none" stroke="#858d9f" stroke-width="4" stroke-opacity="0.77" marker-end="url(#fp-arrow)"/>
+<g id="preview-node-undefined"><rect x="854" y="2374" width="104" height="88" rx="14" fill="#282d39" stroke="#64b886" stroke-width="4"/><text x="906" y="2430" text-anchor="middle" fill="#64b886" font-family="Arial,sans-serif" font-size="32" font-weight="700">GS</text><circle cx="854" cy="2418" r="6" fill="#c5ccd9"/><circle cx="958" cy="2418" r="6" fill="#c5ccd9"/>
+<text x="906" y="2490" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Get row(s) in sheet</text>
+</g>
+<g id="preview-node-undefined"><rect x="1302" y="2374" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="1354" y="2430" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="1302" cy="2418" r="6" fill="#c5ccd9"/><circle cx="1406" cy="2418" r="6" fill="#c5ccd9"/>
+<text x="1354" y="2490" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Calcular vencimiento</text>
+</g>
+<g id="preview-node-undefined"><rect x="6678" y="1110" width="104" height="88" rx="14" fill="#282d39" stroke="#cba369" stroke-width="4"/><text x="6730" y="1166" text-anchor="middle" fill="#cba369" font-family="Arial,sans-serif" font-size="32" font-weight="700">SW</text><circle cx="6678" cy="1154" r="6" fill="#c5ccd9"/><circle cx="6782" cy="1154" r="6" fill="#c5ccd9"/>
+<text x="6730" y="1226" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Switch</text>
+</g>
+<g id="preview-node-undefined"><rect x="6902" y="518" width="104" height="88" rx="14" fill="#282d39" stroke="#6fc19b" stroke-width="4"/><text x="6954" y="574" text-anchor="middle" fill="#6fc19b" font-family="Arial,sans-serif" font-size="32" font-weight="700">WA</text><circle cx="6902" cy="562" r="6" fill="#c5ccd9"/><circle cx="7006" cy="562" r="6" fill="#c5ccd9"/>
+<text x="6954" y="634" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Enviar recordatorio</text>
+<text x="6954" y="659" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">WhatsApp</text>
+</g>
+<g id="preview-node-undefined"><rect x="6902" y="1142" width="104" height="88" rx="14" fill="#282d39" stroke="#6fc19b" stroke-width="4"/><text x="6954" y="1198" text-anchor="middle" fill="#6fc19b" font-family="Arial,sans-serif" font-size="32" font-weight="700">WA</text><circle cx="6902" cy="1186" r="6" fill="#c5ccd9"/><circle cx="7006" cy="1186" r="6" fill="#c5ccd9"/>
+<text x="6954" y="1258" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Enviar WhatsApp - Vence</text>
+<text x="6954" y="1283" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">hoy</text>
+</g>
+<g id="preview-node-undefined"><rect x="8470" y="470" width="104" height="88" rx="14" fill="#282d39" stroke="#64b886" stroke-width="4"/><text x="8522" y="526" text-anchor="middle" fill="#64b886" font-family="Arial,sans-serif" font-size="32" font-weight="700">GS</text><circle cx="8470" cy="514" r="6" fill="#c5ccd9"/><circle cx="8574" cy="514" r="6" fill="#c5ccd9"/>
+<text x="8522" y="586" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Marcar aviso vencimiento</text>
+</g>
+<g id="preview-node-undefined"><rect x="6902" y="1334" width="104" height="88" rx="14" fill="#282d39" stroke="#6fc19b" stroke-width="4"/><text x="6954" y="1390" text-anchor="middle" fill="#6fc19b" font-family="Arial,sans-serif" font-size="32" font-weight="700">WA</text><circle cx="6902" cy="1378" r="6" fill="#c5ccd9"/><circle cx="7006" cy="1378" r="6" fill="#c5ccd9"/>
+<text x="6954" y="1450" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Enviar WhatsApp - 3 días</text>
+<text x="6954" y="1475" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">después</text>
+</g>
+<g id="preview-node-undefined"><rect x="8470" y="662" width="104" height="88" rx="14" fill="#282d39" stroke="#64b886" stroke-width="4"/><text x="8522" y="718" text-anchor="middle" fill="#64b886" font-family="Arial,sans-serif" font-size="32" font-weight="700">GS</text><circle cx="8470" cy="706" r="6" fill="#c5ccd9"/><circle cx="8574" cy="706" r="6" fill="#c5ccd9"/>
+<text x="8522" y="778" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Marcar aviso 3 dias</text>
+</g>
+<g id="preview-node-undefined"><rect x="8470" y="854" width="104" height="88" rx="14" fill="#282d39" stroke="#64b886" stroke-width="4"/><text x="8522" y="910" text-anchor="middle" fill="#64b886" font-family="Arial,sans-serif" font-size="32" font-weight="700">GS</text><circle cx="8470" cy="898" r="6" fill="#c5ccd9"/><circle cx="8574" cy="898" r="6" fill="#c5ccd9"/>
+<text x="8522" y="970" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Marcar aviso 5 dias</text>
+</g>
+<g id="preview-node-undefined"><rect x="630" y="3334" width="104" height="88" rx="14" fill="#282d39" stroke="#99b9ec" stroke-width="4"/><text x="682" y="3390" text-anchor="middle" fill="#99b9ec" font-family="Arial,sans-serif" font-size="32" font-weight="700">T</text><circle cx="630" cy="3378" r="6" fill="#c5ccd9"/><circle cx="734" cy="3378" r="6" fill="#c5ccd9"/>
+<text x="682" y="3450" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Schedule Trigger</text>
+<rect x="692" y="3321" width="55" height="24" rx="6" fill="#4e5361"/><text x="719" y="3339" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="15">OFF</text>
+</g>
+<g id="preview-node-undefined"><rect x="1750" y="2310" width="104" height="88" rx="14" fill="#282d39" stroke="#b7bad4" stroke-width="4"/><text x="1802" y="2366" text-anchor="middle" fill="#b7bad4" font-family="Arial,sans-serif" font-size="32" font-weight="700">IN</text><circle cx="1750" cy="2354" r="6" fill="#c5ccd9"/><circle cx="1854" cy="2354" r="6" fill="#c5ccd9"/>
+<text x="1802" y="2426" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Invoice Ninja - Facturas</text>
+</g>
+<g id="preview-node-undefined"><rect x="1974" y="2310" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="2026" y="2366" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="1974" cy="2354" r="6" fill="#c5ccd9"/><circle cx="2078" cy="2354" r="6" fill="#c5ccd9"/>
+<text x="2026" y="2426" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Preparar factura Invoice</text>
+<text x="2026" y="2451" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Ninja</text>
+</g>
+<g id="preview-node-undefined"><rect x="2422" y="2310" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="2474" y="2366" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="2422" cy="2354" r="6" fill="#c5ccd9"/><circle cx="2526" cy="2354" r="6" fill="#c5ccd9"/>
+<text x="2474" y="2426" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">IF - Factura encontrada</text>
+</g>
+<g id="preview-node-undefined"><rect x="12054" y="1894" width="104" height="88" rx="14" fill="#282d39" stroke="#e58484" stroke-width="4"/><text x="12106" y="1950" text-anchor="middle" fill="#e58484" font-family="Arial,sans-serif" font-size="32" font-weight="700">@</text><circle cx="12054" cy="1938" r="6" fill="#c5ccd9"/><circle cx="12158" cy="1938" r="6" fill="#c5ccd9"/>
+<text x="12106" y="2010" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Alerta administrativa</text>
+<text x="12106" y="2035" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Gmail</text>
+</g>
+<g id="preview-node-undefined"><rect x="1526" y="2374" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="1578" y="2430" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="1526" cy="2418" r="6" fill="#c5ccd9"/><circle cx="1630" cy="2418" r="6" fill="#c5ccd9"/>
+<text x="1578" y="2490" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">If - Tiene Invoice Ninja</text>
+<text x="1578" y="2515" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">ID?</text>
+</g>
+<g id="preview-node-undefined"><rect x="4662" y="1798" width="104" height="88" rx="14" fill="#282d39" stroke="#7abbe8" stroke-width="4"/><text x="4714" y="1854" text-anchor="middle" fill="#7abbe8" font-family="Arial,sans-serif" font-size="32" font-weight="700">MP</text><circle cx="4662" cy="1842" r="6" fill="#c5ccd9"/><circle cx="4766" cy="1842" r="6" fill="#c5ccd9"/>
+<text x="4714" y="1914" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Mercado Pago - Crear pago</text>
+</g>
+<g id="preview-node-undefined"><rect x="2646" y="2198" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="2698" y="2254" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="2646" cy="2242" r="6" fill="#c5ccd9"/><circle cx="2750" cy="2242" r="6" fill="#c5ccd9"/>
+<text x="2698" y="2314" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Hay aviso para enviar</text>
+</g>
+<g id="preview-node-undefined"><rect x="4886" y="1798" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="4938" y="1854" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="4886" cy="1842" r="6" fill="#c5ccd9"/><circle cx="4990" cy="1842" r="6" fill="#c5ccd9"/>
+<text x="4938" y="1914" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Agregar link Mercado Pago</text>
+</g>
+<g id="preview-node-undefined"><rect x="1078" y="2374" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="1130" y="2430" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="1078" cy="2418" r="6" fill="#c5ccd9"/><circle cx="1182" cy="2418" r="6" fill="#c5ccd9"/>
+<text x="1130" y="2490" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Solo cliente prueba</text>
+</g>
+<g id="preview-node-undefined"><rect x="10262" y="854" width="104" height="88" rx="14" fill="#282d39" stroke="#b99cd8" stroke-width="4"/><text x="10314" y="910" text-anchor="middle" fill="#b99cd8" font-family="Arial,sans-serif" font-size="32" font-weight="700">API</text><circle cx="10262" cy="898" r="6" fill="#c5ccd9"/><circle cx="10366" cy="898" r="6" fill="#c5ccd9"/>
+<text x="10314" y="970" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Enviar confirmación</text>
+<text x="10314" y="995" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">interna</text>
+</g>
+<g id="preview-node-undefined"><rect x="7126" y="518" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="7178" y="574" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="7126" cy="562" r="6" fill="#c5ccd9"/><circle cx="7230" cy="562" r="6" fill="#c5ccd9"/>
+<text x="7178" y="634" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Capturar aceptación - 5</text>
+<text x="7178" y="659" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">días</text>
+</g>
+<g id="preview-node-undefined"><rect x="7126" y="1142" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="7178" y="1198" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="7126" cy="1186" r="6" fill="#c5ccd9"/><circle cx="7230" cy="1186" r="6" fill="#c5ccd9"/>
+<text x="7178" y="1258" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Capturar aceptación -</text>
+<text x="7178" y="1283" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Vence hoy</text>
+</g>
+<g id="preview-node-undefined"><rect x="7126" y="1334" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="7178" y="1390" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="7126" cy="1378" r="6" fill="#c5ccd9"/><circle cx="7230" cy="1378" r="6" fill="#c5ccd9"/>
+<text x="7178" y="1450" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Capturar aceptación - 3</text>
+<text x="7178" y="1475" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">días</text>
+</g>
+<g id="preview-node-undefined"><rect x="8694" y="662" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="8746" y="718" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="8694" cy="706" r="6" fill="#c5ccd9"/><circle cx="8798" cy="706" r="6" fill="#c5ccd9"/>
+<text x="8746" y="778" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Preparar confirmación</text>
+<text x="8746" y="803" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">interna</text>
+</g>
+<g id="preview-node-undefined"><rect x="10486" y="662" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="10538" y="718" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="10486" cy="706" r="6" fill="#c5ccd9"/><circle cx="10590" cy="706" r="6" fill="#c5ccd9"/>
+<text x="10538" y="778" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar resultado</text>
+<text x="10538" y="803" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">confirmación</text>
+</g>
+<g id="preview-node-undefined"><rect x="9366" y="662" width="104" height="88" rx="14" fill="#282d39" stroke="#b99cd8" stroke-width="4"/><text x="9418" y="718" text-anchor="middle" fill="#b99cd8" font-family="Arial,sans-serif" font-size="32" font-weight="700">API</text><circle cx="9366" cy="706" r="6" fill="#c5ccd9"/><circle cx="9470" cy="706" r="6" fill="#c5ccd9"/>
+<text x="9418" y="778" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Consultar plantilla</text>
+<text x="9418" y="803" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">confirmación</text>
+</g>
+<g id="preview-node-undefined"><rect x="9590" y="662" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="9642" y="718" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="9590" cy="706" r="6" fill="#c5ccd9"/><circle cx="9694" cy="706" r="6" fill="#c5ccd9"/>
+<text x="9642" y="778" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">IF - Confirmación</text>
+<text x="9642" y="803" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">permitida</text>
+</g>
+<g id="preview-node-undefined"><rect x="2870" y="2198" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="2922" y="2254" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="2870" cy="2242" r="6" fill="#c5ccd9"/><circle cx="2974" cy="2242" r="6" fill="#c5ccd9"/>
+<text x="2922" y="2314" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Reservar recordatorio</text>
+</g>
+<g id="preview-node-undefined"><rect x="3094" y="2134" width="104" height="88" rx="14" fill="#282d39" stroke="#cba369" stroke-width="4"/><text x="3146" y="2190" text-anchor="middle" fill="#cba369" font-family="Arial,sans-serif" font-size="32" font-weight="700">SW</text><circle cx="3094" cy="2178" r="6" fill="#c5ccd9"/><circle cx="3198" cy="2178" r="6" fill="#c5ccd9"/>
+<text x="3146" y="2250" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Continuar trabajo seguro</text>
+</g>
+<g id="preview-node-undefined"><rect x="3318" y="1718" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="3370" y="1774" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="3318" cy="1762" r="6" fill="#c5ccd9"/><circle cx="3422" cy="1762" r="6" fill="#c5ccd9"/>
+<text x="3370" y="1834" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Reservar orden MP</text>
+</g>
+<g id="preview-node-undefined"><rect x="3542" y="1686" width="104" height="88" rx="14" fill="#282d39" stroke="#cba369" stroke-width="4"/><text x="3594" y="1742" text-anchor="middle" fill="#cba369" font-family="Arial,sans-serif" font-size="32" font-weight="700">SW</text><circle cx="3542" cy="1730" r="6" fill="#c5ccd9"/><circle cx="3646" cy="1730" r="6" fill="#c5ccd9"/>
+<text x="3594" y="1802" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Continuar orden MP</text>
+</g>
+<g id="preview-node-undefined"><rect x="5110" y="1798" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="5162" y="1854" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="5110" cy="1842" r="6" fill="#c5ccd9"/><circle cx="5214" cy="1842" r="6" fill="#c5ccd9"/>
+<text x="5162" y="1914" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar orden MP</text>
+</g>
+<g id="preview-node-undefined"><rect x="5334" y="1798" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="5386" y="1854" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="5334" cy="1842" r="6" fill="#c5ccd9"/><circle cx="5438" cy="1842" r="6" fill="#c5ccd9"/>
+<text x="5386" y="1914" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Orden MP lista</text>
+</g>
+<g id="preview-node-undefined"><rect x="5782" y="1270" width="104" height="88" rx="14" fill="#282d39" stroke="#b99cd8" stroke-width="4"/><text x="5834" y="1326" text-anchor="middle" fill="#b99cd8" font-family="Arial,sans-serif" font-size="32" font-weight="700">API</text><circle cx="5782" cy="1314" r="6" fill="#c5ccd9"/><circle cx="5886" cy="1314" r="6" fill="#c5ccd9"/>
+<text x="5834" y="1386" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Consultar plantilla</text>
+<text x="5834" y="1411" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">recordatorio</text>
+</g>
+<g id="preview-node-undefined"><rect x="6006" y="1270" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="6058" y="1326" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="6006" cy="1314" r="6" fill="#c5ccd9"/><circle cx="6110" cy="1314" r="6" fill="#c5ccd9"/>
+<text x="6058" y="1386" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Plantilla recordatorio</text>
+<text x="6058" y="1411" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">aprobada</text>
+</g>
+<g id="preview-node-undefined"><rect x="5558" y="1270" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="5610" y="1326" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="5558" cy="1314" r="6" fill="#c5ccd9"/><circle cx="5662" cy="1314" r="6" fill="#c5ccd9"/>
+<text x="5610" y="1386" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Contexto previo a</text>
+<text x="5610" y="1411" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">plantilla</text>
+</g>
+<g id="preview-node-undefined"><rect x="6230" y="1126" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="6282" y="1182" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="6230" cy="1170" r="6" fill="#c5ccd9"/><circle cx="6334" cy="1170" r="6" fill="#c5ccd9"/>
+<text x="6282" y="1242" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar intención de</text>
+<text x="6282" y="1267" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">envío</text>
+</g>
+<g id="preview-node-undefined"><rect x="6454" y="1126" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="6506" y="1182" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="6454" cy="1170" r="6" fill="#c5ccd9"/><circle cx="6558" cy="1170" r="6" fill="#c5ccd9"/>
+<text x="6506" y="1242" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Envío reservado</text>
+</g>
+<g id="preview-node-undefined"><rect x="7350" y="518" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="7402" y="574" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="7350" cy="562" r="6" fill="#c5ccd9"/><circle cx="7454" cy="562" r="6" fill="#c5ccd9"/>
+<text x="7402" y="634" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Aceptación persistida -</text>
+<text x="7402" y="659" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">5_dias</text>
+</g>
+<g id="preview-node-undefined"><rect x="7350" y="1142" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="7402" y="1198" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="7350" cy="1186" r="6" fill="#c5ccd9"/><circle cx="7454" cy="1186" r="6" fill="#c5ccd9"/>
+<text x="7402" y="1258" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Aceptación persistida -</text>
+<text x="7402" y="1283" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">vencimiento</text>
+</g>
+<g id="preview-node-undefined"><rect x="7350" y="1334" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="7402" y="1390" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="7350" cy="1378" r="6" fill="#c5ccd9"/><circle cx="7454" cy="1378" r="6" fill="#c5ccd9"/>
+<text x="7402" y="1450" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Aceptación persistida -</text>
+<text x="7402" y="1475" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">3_dias</text>
+</g>
+<g id="preview-node-undefined"><rect x="8918" y="662" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="8970" y="718" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="8918" cy="706" r="6" fill="#c5ccd9"/><circle cx="9022" cy="706" r="6" fill="#c5ccd9"/>
+<text x="8970" y="778" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar SI y reservar</text>
+<text x="8970" y="803" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">confirmación</text>
+</g>
+<g id="preview-node-undefined"><rect x="9142" y="662" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="9194" y="718" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="9142" cy="706" r="6" fill="#c5ccd9"/><circle cx="9246" cy="706" r="6" fill="#c5ccd9"/>
+<text x="9194" y="778" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Confirmación reservada</text>
+</g>
+<g id="preview-node-undefined"><rect x="9814" y="854" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="9866" y="910" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="9814" cy="898" r="6" fill="#c5ccd9"/><circle cx="9918" cy="898" r="6" fill="#c5ccd9"/>
+<text x="9866" y="970" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Autorizar envío</text>
+<text x="9866" y="995" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">confirmación</text>
+</g>
+<g id="preview-node-undefined"><rect x="10038" y="854" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="10090" y="910" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="10038" cy="898" r="6" fill="#c5ccd9"/><circle cx="10142" cy="898" r="6" fill="#c5ccd9"/>
+<text x="10090" y="970" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Confirmación autorizada</text>
+</g>
+<g id="preview-node-undefined"><rect x="2646" y="3910" width="104" height="88" rx="14" fill="#282d39" stroke="#a9c2df" stroke-width="4"/><text x="2698" y="3966" text-anchor="middle" fill="#a9c2df" font-family="Arial,sans-serif" font-size="32" font-weight="700">&gt;</text><circle cx="2646" cy="3954" r="6" fill="#c5ccd9"/><circle cx="2750" cy="3954" r="6" fill="#c5ccd9"/>
+<text x="2698" y="4026" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Reintento interno manual</text>
+</g>
+<g id="preview-node-undefined"><rect x="2870" y="3510" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="2922" y="3566" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="2870" cy="3554" r="6" fill="#c5ccd9"/><circle cx="2974" cy="3554" r="6" fill="#c5ccd9"/>
+<text x="2922" y="3626" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Recuperar trabajos</text>
+<text x="2922" y="3651" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">pendientes</text>
+</g>
+<g id="preview-node-undefined"><rect x="8694" y="2822" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="8746" y="2878" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="8694" cy="2866" r="6" fill="#c5ccd9"/><circle cx="8798" cy="2866" r="6" fill="#c5ccd9"/>
+<text x="8746" y="2938" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Contexto confirmación</text>
+<text x="8746" y="2963" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">pendiente</text>
+</g>
+<g id="preview-node-undefined"><rect x="10934" y="1894" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="10986" y="1950" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="10934" cy="1938" r="6" fill="#c5ccd9"/><circle cx="11038" cy="1938" r="6" fill="#c5ccd9"/>
+<text x="10986" y="2010" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar alerta</text>
+<text x="10986" y="2035" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">administrativa</text>
+</g>
+<g id="preview-node-undefined"><rect x="12278" y="1894" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="12330" y="1950" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="12278" cy="1938" r="6" fill="#c5ccd9"/><circle cx="12382" cy="1938" r="6" fill="#c5ccd9"/>
+<text x="12330" y="2010" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar resultado</text>
+<text x="12330" y="2035" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">alerta Gmail</text>
+</g>
+<g id="preview-node-undefined"><rect x="2870" y="3702" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="2922" y="3758" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="2870" cy="3746" r="6" fill="#c5ccd9"/><circle cx="2974" cy="3746" r="6" fill="#c5ccd9"/>
+<text x="2922" y="3818" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Recuperar alertas</text>
+<text x="2922" y="3843" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">administrativas</text>
+</g>
+<g id="preview-node-undefined"><rect x="10710" y="662" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="10762" y="718" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="10710" cy="706" r="6" fill="#c5ccd9"/><circle cx="10814" cy="706" r="6" fill="#c5ccd9"/>
+<text x="10762" y="778" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Confirmación requiere</text>
+<text x="10762" y="803" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">alerta</text>
+</g>
+<g id="preview-node-undefined"><rect x="5782" y="4038" width="104" height="88" rx="14" fill="#282d39" stroke="#c99be9" stroke-width="4"/><text x="5834" y="4094" text-anchor="middle" fill="#c99be9" font-family="Arial,sans-serif" font-size="32" font-weight="700">WH</text><circle cx="5782" cy="4082" r="6" fill="#c5ccd9"/><circle cx="5886" cy="4082" r="6" fill="#c5ccd9"/>
+<text x="5834" y="4154" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Webhook pagos Mercado</text>
+<text x="5834" y="4179" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Pago</text>
+</g>
+<g id="preview-node-undefined"><rect x="6006" y="4038" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="6058" y="4094" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="6006" cy="4082" r="6" fill="#c5ccd9"/><circle cx="6110" cy="4082" r="6" fill="#c5ccd9"/>
+<text x="6058" y="4154" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Verificar firma Mercado</text>
+<text x="6058" y="4179" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Pago</text>
+</g>
+<g id="preview-node-undefined"><rect x="6230" y="4038" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="6282" y="4094" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="6230" cy="4082" r="6" fill="#c5ccd9"/><circle cx="6334" cy="4082" r="6" fill="#c5ccd9"/>
+<text x="6282" y="4154" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Firma MP válida</text>
+</g>
+<g id="preview-node-undefined"><rect x="6454" y="4038" width="104" height="88" rx="14" fill="#282d39" stroke="#7abbe8" stroke-width="4"/><text x="6506" y="4094" text-anchor="middle" fill="#7abbe8" font-family="Arial,sans-serif" font-size="32" font-weight="700">MP</text><circle cx="6454" cy="4082" r="6" fill="#c5ccd9"/><circle cx="6558" cy="4082" r="6" fill="#c5ccd9"/>
+<text x="6506" y="4154" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Mercado Pago - Consultar</text>
+<text x="6506" y="4179" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">evento</text>
+</g>
+<g id="preview-node-undefined"><rect x="6678" y="2470" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="6730" y="2526" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="6678" cy="2514" r="6" fill="#c5ccd9"/><circle cx="6782" cy="2514" r="6" fill="#c5ccd9"/>
+<text x="6730" y="2586" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Preparar IDs de pago</text>
+</g>
+<g id="preview-node-undefined"><rect x="6902" y="2470" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="6954" y="2526" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="6902" cy="2514" r="6" fill="#c5ccd9"/><circle cx="7006" cy="2514" r="6" fill="#c5ccd9"/>
+<text x="6954" y="2586" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Acreditación obtenida</text>
+<text x="6954" y="2611" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">desde orders</text>
+</g>
+<g id="preview-node-undefined"><rect x="7126" y="2230" width="104" height="88" rx="14" fill="#282d39" stroke="#7abbe8" stroke-width="4"/><text x="7178" y="2286" text-anchor="middle" fill="#7abbe8" font-family="Arial,sans-serif" font-size="32" font-weight="700">MP</text><circle cx="7126" cy="2274" r="6" fill="#c5ccd9"/><circle cx="7230" cy="2274" r="6" fill="#c5ccd9"/>
+<text x="7178" y="2346" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Mercado Pago - Consultar</text>
+<text x="7178" y="2371" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">acreditación</text>
+</g>
+<g id="preview-node-undefined"><rect x="7350" y="2470" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="7402" y="2526" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="7350" cy="2514" r="6" fill="#c5ccd9"/><circle cx="7454" cy="2514" r="6" fill="#c5ccd9"/>
+<text x="7402" y="2586" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Validar referencia</text>
+<text x="7402" y="2611" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">acreditada</text>
+</g>
+<g id="preview-node-undefined"><rect x="7574" y="2470" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="7626" y="2526" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="7574" cy="2514" r="6" fill="#c5ccd9"/><circle cx="7678" cy="2514" r="6" fill="#c5ccd9"/>
+<text x="7626" y="2586" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Pago verificado de</text>
+<text x="7626" y="2611" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">cliente prueba</text>
+</g>
+<g id="preview-node-undefined"><rect x="7798" y="2486" width="104" height="88" rx="14" fill="#282d39" stroke="#b7bad4" stroke-width="4"/><text x="7850" y="2542" text-anchor="middle" fill="#b7bad4" font-family="Arial,sans-serif" font-size="32" font-weight="700">IN</text><circle cx="7798" cy="2530" r="6" fill="#c5ccd9"/><circle cx="7902" cy="2530" r="6" fill="#c5ccd9"/>
+<text x="7850" y="2602" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Invoice Ninja - Verificar</text>
+<text x="7850" y="2627" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">saldo pago</text>
+</g>
+<g id="preview-node-undefined"><rect x="8022" y="2486" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="8074" y="2542" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="8022" cy="2530" r="6" fill="#c5ccd9"/><circle cx="8126" cy="2530" r="6" fill="#c5ccd9"/>
+<text x="8074" y="2602" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Validar saldo antes de</text>
+<text x="8074" y="2627" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">conciliar</text>
+</g>
+<g id="preview-node-undefined"><rect x="8246" y="2486" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="8298" y="2542" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="8246" cy="2530" r="6" fill="#c5ccd9"/><circle cx="8350" cy="2530" r="6" fill="#c5ccd9"/>
+<text x="8298" y="2602" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Saldo verificado</text>
+</g>
+<g id="preview-node-undefined"><rect x="8470" y="2566" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="8522" y="2622" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="8470" cy="2610" r="6" fill="#c5ccd9"/><circle cx="8574" cy="2610" r="6" fill="#c5ccd9"/>
+<text x="8522" y="2682" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Reservar conciliación</text>
+</g>
+<g id="preview-node-undefined"><rect x="8694" y="2566" width="104" height="88" rx="14" fill="#282d39" stroke="#cba369" stroke-width="4"/><text x="8746" y="2622" text-anchor="middle" fill="#cba369" font-family="Arial,sans-serif" font-size="32" font-weight="700">SW</text><circle cx="8694" cy="2610" r="6" fill="#c5ccd9"/><circle cx="8798" cy="2610" r="6" fill="#c5ccd9"/>
+<text x="8746" y="2682" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Continuar conciliación</text>
+</g>
+<g id="preview-node-undefined"><rect x="8918" y="2486" width="104" height="88" rx="14" fill="#282d39" stroke="#b7bad4" stroke-width="4"/><text x="8970" y="2542" text-anchor="middle" fill="#b7bad4" font-family="Arial,sans-serif" font-size="32" font-weight="700">IN</text><circle cx="8918" cy="2530" r="6" fill="#c5ccd9"/><circle cx="9022" cy="2530" r="6" fill="#c5ccd9"/>
+<text x="8970" y="2602" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Invoice Ninja - Registrar</text>
+<text x="8970" y="2627" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">pago</text>
+</g>
+<g id="preview-node-undefined"><rect x="9142" y="2486" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="9194" y="2542" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="9142" cy="2530" r="6" fill="#c5ccd9"/><circle cx="9246" cy="2530" r="6" fill="#c5ccd9"/>
+<text x="9194" y="2602" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar resultado</text>
+<text x="9194" y="2627" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">conciliación</text>
+</g>
+<g id="preview-node-undefined"><rect x="9366" y="2486" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="9418" y="2542" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="9366" cy="2530" r="6" fill="#c5ccd9"/><circle cx="9470" cy="2530" r="6" fill="#c5ccd9"/>
+<text x="9418" y="2602" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Pago IN registrado</text>
+</g>
+<g id="preview-node-undefined"><rect x="9590" y="2630" width="104" height="88" rx="14" fill="#282d39" stroke="#b7bad4" stroke-width="4"/><text x="9642" y="2686" text-anchor="middle" fill="#b7bad4" font-family="Arial,sans-serif" font-size="32" font-weight="700">IN</text><circle cx="9590" cy="2674" r="6" fill="#c5ccd9"/><circle cx="9694" cy="2674" r="6" fill="#c5ccd9"/>
+<text x="9642" y="2746" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Invoice Ninja - Saldos</text>
+<text x="9642" y="2771" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">restantes</text>
+</g>
+<g id="preview-node-undefined"><rect x="9814" y="2630" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="9866" y="2686" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="9814" cy="2674" r="6" fill="#c5ccd9"/><circle cx="9918" cy="2674" r="6" fill="#c5ccd9"/>
+<text x="9866" y="2746" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Comprobar todas las</text>
+<text x="9866" y="2771" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">facturas saldadas</text>
+</g>
+<g id="preview-node-undefined"><rect x="10038" y="2630" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="10090" y="2686" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="10038" cy="2674" r="6" fill="#c5ccd9"/><circle cx="10142" cy="2674" r="6" fill="#c5ccd9"/>
+<text x="10090" y="2746" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Cliente sin saldo</text>
+<text x="10090" y="2771" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">pendiente</text>
+</g>
+<g id="preview-node-undefined"><rect x="10934" y="3126" width="104" height="88" rx="14" fill="#282d39" stroke="#64b886" stroke-width="4"/><text x="10986" y="3182" text-anchor="middle" fill="#64b886" font-family="Arial,sans-serif" font-size="32" font-weight="700">GS</text><circle cx="10934" cy="3170" r="6" fill="#c5ccd9"/><circle cx="11038" cy="3170" r="6" fill="#c5ccd9"/>
+<text x="10986" y="3242" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Marcar estado pagado en</text>
+<text x="10986" y="3267" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Sheets</text>
+</g>
+<g id="preview-node-undefined"><rect x="11158" y="3126" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="11210" y="3182" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="11158" cy="3170" r="6" fill="#c5ccd9"/><circle cx="11262" cy="3170" r="6" fill="#c5ccd9"/>
+<text x="11210" y="3242" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar estado pagado</text>
+</g>
+<g id="preview-node-undefined"><rect x="2870" y="3894" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="2922" y="3950" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="2870" cy="3938" r="6" fill="#c5ccd9"/><circle cx="2974" cy="3938" r="6" fill="#c5ccd9"/>
+<text x="2922" y="4010" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Recuperar conciliaciones</text>
+<text x="2922" y="4035" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">pendientes</text>
+</g>
+<g id="preview-node-undefined"><rect x="7574" y="758" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="7626" y="814" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="7574" cy="802" r="6" fill="#c5ccd9"/><circle cx="7678" cy="802" r="6" fill="#c5ccd9"/>
+<text x="7626" y="874" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Contexto escritura aviso</text>
+</g>
+<g id="preview-node-undefined"><rect x="7798" y="758" width="104" height="88" rx="14" fill="#282d39" stroke="#b99cd8" stroke-width="4"/><text x="7850" y="814" text-anchor="middle" fill="#b99cd8" font-family="Arial,sans-serif" font-size="32" font-weight="700">API</text><circle cx="7798" cy="802" r="6" fill="#c5ccd9"/><circle cx="7902" cy="802" r="6" fill="#c5ccd9"/>
+<text x="7850" y="874" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Leer identidad actual</text>
+<text x="7850" y="899" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">aviso</text>
+</g>
+<g id="preview-node-undefined"><rect x="8022" y="758" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="8074" y="814" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="8022" cy="802" r="6" fill="#c5ccd9"/><circle cx="8126" cy="802" r="6" fill="#c5ccd9"/>
+<text x="8074" y="874" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Validar identidad para</text>
+<text x="8074" y="899" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">aviso</text>
+</g>
+<g id="preview-node-undefined"><rect x="8246" y="726" width="104" height="88" rx="14" fill="#282d39" stroke="#cba369" stroke-width="4"/><text x="8298" y="782" text-anchor="middle" fill="#cba369" font-family="Arial,sans-serif" font-size="32" font-weight="700">SW</text><circle cx="8246" cy="770" r="6" fill="#c5ccd9"/><circle cx="8350" cy="770" r="6" fill="#c5ccd9"/>
+<text x="8298" y="842" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Seleccionar aviso seguro</text>
+</g>
+<g id="preview-node-undefined"><rect x="10262" y="2630" width="104" height="88" rx="14" fill="#282d39" stroke="#b99cd8" stroke-width="4"/><text x="10314" y="2686" text-anchor="middle" fill="#b99cd8" font-family="Arial,sans-serif" font-size="32" font-weight="700">API</text><circle cx="10262" cy="2674" r="6" fill="#c5ccd9"/><circle cx="10366" cy="2674" r="6" fill="#c5ccd9"/>
+<text x="10314" y="2746" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Leer identidad actual</text>
+<text x="10314" y="2771" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">pago</text>
+</g>
+<g id="preview-node-undefined"><rect x="10486" y="2630" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="10538" y="2686" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="10486" cy="2674" r="6" fill="#c5ccd9"/><circle cx="10590" cy="2674" r="6" fill="#c5ccd9"/>
+<text x="10538" y="2746" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Validar identidad para</text>
+<text x="10538" y="2771" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">pago</text>
+</g>
+<g id="preview-node-undefined"><rect x="10710" y="2630" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="10762" y="2686" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="10710" cy="2674" r="6" fill="#c5ccd9"/><circle cx="10814" cy="2674" r="6" fill="#c5ccd9"/>
+<text x="10762" y="2746" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Identidad pago verificada</text>
+</g>
+<g id="preview-node-undefined"><rect x="4438" y="1798" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="4490" y="1854" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="4438" cy="1842" r="6" fill="#c5ccd9"/><circle cx="4542" cy="1842" r="6" fill="#c5ccd9"/>
+<text x="4490" y="1914" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Contexto creación orden</text>
+<text x="4490" y="1939" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">MP</text>
+</g>
+<g id="preview-node-undefined"><rect x="3766" y="2166" width="104" height="88" rx="14" fill="#282d39" stroke="#7abbe8" stroke-width="4"/><text x="3818" y="2222" text-anchor="middle" fill="#7abbe8" font-family="Arial,sans-serif" font-size="32" font-weight="700">MP</text><circle cx="3766" cy="2210" r="6" fill="#c5ccd9"/><circle cx="3870" cy="2210" r="6" fill="#c5ccd9"/>
+<text x="3818" y="2282" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Consultar vigencia orden</text>
+<text x="3818" y="2307" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">MP</text>
+</g>
+<g id="preview-node-undefined"><rect x="3990" y="2166" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="4042" y="2222" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="3990" cy="2210" r="6" fill="#c5ccd9"/><circle cx="4094" cy="2210" r="6" fill="#c5ccd9"/>
+<text x="4042" y="2282" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Validar vigencia orden MP</text>
+</g>
+<g id="preview-node-undefined"><rect x="4214" y="2134" width="104" height="88" rx="14" fill="#282d39" stroke="#cba369" stroke-width="4"/><text x="4266" y="2190" text-anchor="middle" fill="#cba369" font-family="Arial,sans-serif" font-size="32" font-weight="700">SW</text><circle cx="4214" cy="2178" r="6" fill="#c5ccd9"/><circle cx="4318" cy="2178" r="6" fill="#c5ccd9"/>
+<text x="4266" y="2250" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Resultado vigencia orden</text>
+<text x="4266" y="2275" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">MP</text>
+</g>
+<g id="preview-node-undefined"><rect x="6454" y="2470" width="104" height="88" rx="14" fill="#282d39" stroke="#ef9a6c" stroke-width="4"/><text x="6506" y="2526" text-anchor="middle" fill="#ef9a6c" font-family="Arial,sans-serif" font-size="32" font-weight="700">{ }</text><circle cx="6454" cy="2514" r="6" fill="#c5ccd9"/><circle cx="6558" cy="2514" r="6" fill="#c5ccd9"/>
+<text x="6506" y="2586" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Preparar conciliación</text>
+<text x="6506" y="2611" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">orden pagada</text>
+</g>
+<g id="preview-node-undefined"><rect x="2198" y="2310" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="2250" y="2366" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="2198" cy="2354" r="6" fill="#c5ccd9"/><circle cx="2302" cy="2354" r="6" fill="#c5ccd9"/>
+<text x="2250" y="2426" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar avisos omitidos</text>
+</g>
+<g id="preview-node-undefined"><rect x="11158" y="1894" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="11210" y="1950" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="11158" cy="1938" r="6" fill="#c5ccd9"/><circle cx="11262" cy="1938" r="6" fill="#c5ccd9"/>
+<text x="11210" y="2010" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Reservar alerta Gmail</text>
+</g>
+<g id="preview-node-undefined"><rect x="11382" y="1894" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="11434" y="1950" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="11382" cy="1938" r="6" fill="#c5ccd9"/><circle cx="11486" cy="1938" r="6" fill="#c5ccd9"/>
+<text x="11434" y="2010" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Alerta Gmail reservada</text>
+</g>
+<g id="preview-node-undefined"><rect x="11606" y="1894" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="11658" y="1950" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="11606" cy="1938" r="6" fill="#c5ccd9"/><circle cx="11710" cy="1938" r="6" fill="#c5ccd9"/>
+<text x="11658" y="2010" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Registrar intención Gmail</text>
+</g>
+<g id="preview-node-undefined"><rect x="11830" y="1894" width="104" height="88" rx="14" fill="#282d39" stroke="#84c67a" stroke-width="4"/><text x="11882" y="1950" text-anchor="middle" fill="#84c67a" font-family="Arial,sans-serif" font-size="32" font-weight="700">IF</text><circle cx="11830" cy="1938" r="6" fill="#c5ccd9"/><circle cx="11934" cy="1938" r="6" fill="#c5ccd9"/>
+<text x="11882" y="2010" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Envío Gmail autorizado</text>
+</g>
+<g id="preview-node-undefined"><rect x="230" y="570" width="104" height="88" rx="14" fill="#282d39" stroke="#58a6b9" stroke-width="4"/><text x="282" y="626" text-anchor="middle" fill="#58a6b9" font-family="Arial,sans-serif" font-size="32" font-weight="700">PG</text><circle cx="230" cy="614" r="6" fill="#c5ccd9"/><circle cx="334" cy="614" r="6" fill="#c5ccd9"/>
+<text x="282" y="686" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">Sincronizar bloqueos de</text>
+<text x="282" y="711" text-anchor="middle" fill="#e3e8f1" font-family="Arial,sans-serif" font-size="21">cobranza</text>
+</g>
+<text x="210" y="4223" fill="#9faec0" font-family="Arial,sans-serif" font-size="40">Distribución y conexiones tomadas del archivo exportado. Esta vista no indica una ejecución en producción.</text></svg>

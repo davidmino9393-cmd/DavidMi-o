@@ -1,4 +1,6 @@
-<img src="assets/portada.svg" alt="Automatización de cobranzas: demo pública con datos ficticios" width="100%">
+<img src="assets/portada.svg" alt="Vista general del proyecto original de cobranzas: 93 nodos y 124 conexiones" width="100%">
+
+*Vista general del proyecto original. El repositorio contiene una demo simplificada con datos ficticios.*
 
 # Automatización de cobranzas con n8n
 
